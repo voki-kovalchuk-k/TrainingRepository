@@ -1,0 +1,3 @@
+[submodule "TrainingRepository"]
+	path = TrainingRepository
+	url = https://github.com/voki-kovalchuk-k/TrainingRepository
